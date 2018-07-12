@@ -1,7 +1,7 @@
 #include "Particle.h"
 #include <math.h>
 
-void publishData(); //Initial the function publishData()
+void publishData(); //Initial the function publishDataminir)
 
 //Initialise Constants & Variables
 const unsigned long PUBLISH_PERIOD_MS = 10000; //Interval which firebase is updated in MS
